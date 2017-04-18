@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -19,7 +22,7 @@
 <div class="wrapper row1">
   <div id="header" class="clear">
     <div class="fl_left">
-      <h1><a href="project.html">AICTE</a></h1>
+      <h1><a href="project.php">AICTE</a></h1>
     </div>
     <div class="fl_right">
       <p> <a href="#">Sign Up </a> | <a href="#">Login</a></p>
@@ -37,12 +40,11 @@
 <ul class="drop_menu">
 <li><a href='#'>About us</a>
 <ul class="submenu">
-<li><a href="About.html">About AICTE</a></li>              
+<li><a href="About.php">About AICTE</a></li>              
 <!--<li><a href='#'>Messages</a></li>
 <li><a href='#'>Regional Offices</a></li>
 <li><a href='#'>Who is who</a></li>-->
-<li><a href="Contact.html">Contact us</a></li>
-<li>
+<li><a href="Contact.php">Contact us</a></li>
             
             
 
@@ -50,8 +52,8 @@
 </li>
 <li><a href='#'>Bureaus</a>
 <ul class="submenu">
-<li><a href='#'>Administration Bureau</a></li>
-<li><a href='#'>Academic Bureau</a></li>
+<li><a href="admin.php">Administration Bureau</a></li>
+<li><a href="Academic.php">Academic Bureau</a></li>
 <!--<li><a href='#'>University Bureau</a></li>
 <li><a href='#'>Finance Bureau</a></li>
 <li><a href='#'>Approvals Bureau</a></li>
@@ -242,7 +244,7 @@
             <li class="last">
 
             
-          <div class="holder" id="latestnews">
+          <div class="holder" id="announcements">
 
 
           <h2><br>Announcements</h2>
@@ -397,7 +399,8 @@
          <!-- <p class="readmore"><a href="#"> &raquo;</a></p>-->
         
     </div>
-  </div>
+  </div><br>
+  <a href="news.html"><img src="images/newss.gif" alt="" width="200" height="64"></a>
 </div>
 
         

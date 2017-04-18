@@ -1,4 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php
+
+?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>AICTE</title>
@@ -142,48 +144,40 @@
 </li>
   </div>
 </div>
-<!--##########################################################################################-->
+<!-- #######################################################-->
 
-<table width="521" border="0" cellpadding="2" cellspacing="2" id="conlink">
-                     
-					   <tr>
-                        <td align="center"><img src="images/arrow.gif" alt="" width="23" height="20" /></td>
-                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNews letter - July 2014 - September 2014 - English </td> 
-                        <td><a href="http://www.aicte-india.org/downloads/aicte_newsletter_July_Sept_2014_English.pdf" target="_blank"> <img src="images/view.jpg" alt="" width="95" height="43"></a></td>
-                      </tr>
-                       <br><br>
-					   <tr>
-                        <td align="center"><img src="images/arrow.gif" alt="" width="23" height="20" /></td>
-                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNews letter - July 2014 - September 2014 - Hindi </td> 
-                        <td> <a href="http://www.aicte-india.org/downloads/aicte_newsletter_July_Sept_2014_hindi.pdf" target="_blank"><img src="images/view.jpg" alt="" width="95" height="43"></a></td>
-                      </tr>
+  <div id="hpage_featured" class="clear"> 
+    <!-- ####################################################################################################### -->
+    <img src="images/demo/building.jpg" alt=""  width="450" height="320"/>
+<div class="intro clear">
+      
+        <div class="fl_right">
+          <p><h3>THE ALL INDIA COUNCIL FOR TECHNICAL<br>
+EDUCATION ACT 1987<br>
+(No 52 OF 1987)<br>
+(As Passed by the Houses of Parliament)<br>
+</h3><br>
+<p><h3>An Act</h3>
+To provide for the establishment of an All India Council for Technical Education with a view to the proper planning and co-ordinated development of the technical education system throughout the country, the promotion of qualitative improvements of such education in relation to planned quantitative growth and the regulation and proper maintenance of norms and standards in the technical education system and for matters connected therewith.</p>
+        
+       
+        </div>
+        <h3>Objectives</h3>
+<ul>
+  <li>Promotion of Quality in Technical Education.</li>
 
-					   <tr>
-                        <td align="center"><img src="images/arrow.gif" alt="" width="23" height="20" /></td>
-                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNews letter - October 2014 - December 2014 - Bilingual </td>
-                         <td> <a href="http://www.aicte-india.org/downloads/FINAL%20Oct-Dec%202014.pdf" target="_blank"><img src="images/view.jpg" alt="" width="95" height="43"></a></td>
-                      </tr>
-					   <tr>
-                        <td align="center"><img src="images/arrow.gif" alt="" width="23" height="20" /></td>
-                        <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNews letter - January 2015 - March 2015 - Bilingua </td>
-                         <td><a href="http://www.aicte-india.org/downloads/news%20letter%20JAN-MARCH%202015%20FINAL.pdf" target="_blank"><img src="images/view.jpg" alt="" width="95" height="43"></a></td>
-                      </tr>
-					  <tr>
-                        <td align="center"><img src="images/arrow.gif" alt="" width="23" height="20" /></td>
-                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNews letter - April 2015 - June 2015 - Bilingual</a> </td>
-                        <td><a href="http://www.aicte-india.org/downloads/april_june_2015.pdf" target="_blank"><img src="images/view.jpg" alt="" width="95" height="43"></a></td>
-                      </tr>
-					  <tr>
-                        <td align="center"><img src="images/arrow.gif" alt="" width="23" height="20" /></td>
-                        <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNews letter - July 2015 - September 2015 - Bilingual</a> </td>
-                        <td> <a href="http://www.aicte-india.org/downloads/july_sept_2015.pdf" target="_blank"><img src="images/view.jpg" alt="" width="95" height="43"></a></td>
-                      </tr>
-                    </table>  
-                    <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> 
+  <li>Planning and Co-ordinated Development of Technical Education System.</li>
 
- 
+  <li>Regulations and maintenance of Norms and Standards.</li>
+  </ul>
 
 
 
-
-
+        </div>
+        </div>
+        </ul>
+        </div>
+        </div>
+        </div>
+        </body>
+        </html>

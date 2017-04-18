@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -142,38 +145,44 @@
 </li>
   </div>
 </div>
-<!-- #######################################################-->
-
+<!--##########################################################################################-->
+<div class="wrapper row2">
   <div id="hpage_featured" class="clear"> 
     <!-- ####################################################################################################### -->
-    
-      
-        <div>
-         
-<h3>Contact Us</h3>
-<table>
-<tr>
-<td><b>Address</b></td>
-<td><b>Phone Numbers</b></td>
-</tr>
-<tr>
-<td>ALL INDIA COUNCIL FOR TECHNICAL EDUCATION<br>
-Nelson Mandela Marg
-Vasant Kunj, New Delhi-110067 </td>
-<td>011-26131576-78,80</td> 
-</tr>
-</table>
-        <div align="center">                    
-   <iframe src="googlemap/vasantkunjmap.php" frameborder="0" width="610" height="280"></iframe>
-                                  </div>
+    <div>
+      <ul>
+      <div class="panel-overlay">
+<h3>Administration</h3>
 
-       
-        </div>
-        </div>
-        </div>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </body>
-        </html>
+<p>In business, administration consists of the performance or management of business operations and thus the making or implementing 
+of major decisions. Administration can be defined as the universal process of organizing people and resources efficiently so as to 
+direct activities toward common goals and objectives.<br><br>
+
+The word is derived from the Middle English word administracioun, which is in turn derived from the French administration, itself 
+derived from the Latin administration a compounding of ad ("to") and ministratio ("give service").<br><br>
+
+Administrator can serve as the title of the general manager or company secretary who reports to a corporate board of directors. This 
+title is archaic, but, in many enterprises, this function, together with its associated Finance, Personnel and management information 
+systems services, is what is intended when the term  " the administration " is used.<br><br>
+
+In some organizational analyses, management is viewed as a subset of administration, specifically associated with the technical and
+ mundane elements within an organization's operation. It stands distinct from executive or strategic work.<br><br>
+
+In other organizational analyses, administration can refer to the bureaucratic or operational performance of mundane office tasks,
+ usually internally oriented and reactive rather than proactive.<br><br></p>
+ <br><br><br><br><br><br><br><br>
+</div>
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+

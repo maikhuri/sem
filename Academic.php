@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -142,40 +145,75 @@
 </li>
   </div>
 </div>
-<!-- #######################################################-->
-
+<!--##########################################################################################-->
+<div class="wrapper row2">
   <div id="hpage_featured" class="clear"> 
     <!-- ####################################################################################################### -->
-    <img src="images/demo/building.jpg" alt=""  width="450" height="320"/>
-<div class="intro clear">
-      
-        <div class="fl_right">
-          <p><h3>THE ALL INDIA COUNCIL FOR TECHNICAL<br>
-EDUCATION ACT 1987<br>
-(No 52 OF 1987)<br>
-(As Passed by the Houses of Parliament)<br>
-</h3><br>
-<p><h3>An Act</h3>
-To provide for the establishment of an All India Council for Technical Education with a view to the proper planning and co-ordinated development of the technical education system throughout the country, the promotion of qualitative improvements of such education in relation to planned quantitative growth and the regulation and proper maintenance of norms and standards in the technical education system and for matters connected therewith.</p>
-        
-       
-        </div>
-        <h3>Objectives</h3>
-<ul>
-  <li>Promotion of Quality in Technical Education.</li>
+    
+<h3>Academic</h3>
 
-  <li>Planning and Co-ordinated Development of Technical Education System.</li>
+<table width="521" border="0" cellpadding="2" cellspacing="2" >
+<tr>
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspArchitecture Board </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Architecture.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Board of Hospitality & Tourism Management </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Hotel_management.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Information Technology Board</td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Info_technology.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Management Studies Board</td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Info_technology.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPG Education and Research Board </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Post_grad_res.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPharmaceutical Education Board </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Phar_ed.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTown and Country Planning Board </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Town_country_plng.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTechnician Education Board  </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Technician_education.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+ <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Undergraduate Studies in Engg and Tech Board</td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB_Under_grad.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                       
+                       <td align="center"><img src="images/arroww.gif" alt="" width="23" height="20" /></td>
+                        <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspVocational Education Board </td> 
+                         <td> <a href="http://www.aicte-india.org/downloads/AIB-Voc_ed.pdf#toolbar=0" target="_blank"><img src="images/vieww.png" alt="" width="90" height="36"></a></td>
+                      </tr>
+                    </table>  
+                    <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> 
+                    </ul>
+                    </li>
+                    </ul>
+                    </div>
+                    </div>
+                    </div>
+                    </body>
+                    </html>
 
-  <li>Regulations and maintenance of Norms and Standards.</li>
-  </ul>
+ +
 
-
-
-        </div>
-        </div>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </body>
-        </html>
